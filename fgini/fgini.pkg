@@ -1,0 +1,12 @@
+*Package file for fgini
+*Version (3 is most recent)
+v 3
+**Description
+d fgini. Quickly compute Gini coefficients.
+d {bf:James Archsmith, Department of Agricultural and Resource Economics, University of Maryland, College Park}
+d {browse "https://econjim.com/":econjim.com}
+d
+d Distribution-Date: 20220105
+d
+f fgini.ado
+f fgini.sthlp

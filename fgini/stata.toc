@@ -1,0 +1,7 @@
+*Table of contents for the fastgini Stata ADO
+
+*Version (3 is the most recent for TOC files)
+v 3
+d James Archsmith, Department of Agricultural and Resource Economics, University of Maryland, College Park
+d https://econjim.com
+p fgini Quickly compute Gini coefficients.
